@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 It's Lilly here!
+## Hello, I'm Lillyanna
 
-### A Jack of All Trades, Master of Nothing...yet
+### A Jack of All Trades
 
 <ul>
   <li>🔭 I’m currently working on...
@@ -38,14 +38,6 @@ Here are some ideas to get you started:
     </ul>
   <br></li>
 
-  <li>⚡ Fun fact: ...
-    <ul>
-      <li>I am learning Mandarin Chinese</li>
-      <li>Love people</li>
-      <li>Love to bake</li>
-      <li>Love to draw</li>
-      <li>Love to read</li>
-      <li>...you get the point, I have a few hobbies ;)</li>
-  <br></li>
+  <li>💬 Ask me about digital design! Would love to chat.</li>
 </ul>
 
