@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
   <li>📫 How to reach me:
     <ul>
-      <li>LinkedIn >> www.linkedin.com/in/lilly-poorman</li>
+      <li>LinkedIn >> www.linkedin.com/in/lillyanna-poorman</li>
     </ul>
   <br></li>
 
