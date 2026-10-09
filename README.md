@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <li>🌱 I’m currently learning ...
     <ul>
       <li>Figma</li>
+      <li>Business Strategy</li>
       <li>Coding</li>
       <li>Developement tools</li>
     </ul>
